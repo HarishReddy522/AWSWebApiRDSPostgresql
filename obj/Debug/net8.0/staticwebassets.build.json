@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "f57poonL+fvIPFZXY+a/FCkkhl/7t4yVfvmK2ohYqnI=",
+  "Source": "WebApiRDSWithPostgreSql",
+  "BasePath": "_content/WebApiRDSWithPostgreSql",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
